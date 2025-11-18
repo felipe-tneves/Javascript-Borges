@@ -1,0 +1,11 @@
+body {
+    background-color: cadetblue;
+    /* Define a cor de fundo da página como "cadetblue". */
+    color: azure;
+    /* Define a cor do texto (font color) como "azure". */
+    font: normal 20pt Arial;
+    /* Define a fonte do texto:
+                                    - normal = estilo da fonte (não é negrito nem itálico)
+                                    - 20pt = tamanho da fonte
+                                    - Arial = família da fonte usada */
+}
